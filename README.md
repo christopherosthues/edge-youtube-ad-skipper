@@ -1,2 +1,2 @@
-# edge-youtube-ad-skipper
+# YouTube Ad skipper
 Automatically skips skippable ads on YouTube.
