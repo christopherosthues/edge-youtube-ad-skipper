@@ -6,7 +6,7 @@
     "content_scripts": [
         {
             "matches": ["*://www.youtube.com/*"],
-            "js": ["../ad-skipper/ad-skipper.js"]
+            "js": ["ad-skipper/ad-skipper.js"]
         }
     ]
 }
